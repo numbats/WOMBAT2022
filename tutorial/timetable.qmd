@@ -1,0 +1,24 @@
+---
+title: "Running tutorials"
+format:
+    html:
+        toc: true
+        code-fold: true
+---
+
+# Tutorial program
+
+```{r workshop-program}
+#| echo: false
+library(tibble)
+library(kableExtra)
+timetable <- tribble(
+    ~"Time", ~"Stream 1", ~"Stream 2", ~"Stream 3", ~"Stream 4",
+    "AM", "Data Visualisation (Emi)", "Version Control (Patricia?)", "Introduction to optimization with Python (Jess)", "Wrangling spatio-temporal data (Sherry)",
+    "PM", "Shiny (Mitch)", "Forecasting (Rob)", "Bayesian Inference and regression using Stan (Lauren)", "Visual mapping of natural disasters (Kate)"
+)
+
+kable(timetable) |>
+    kable_styling(latex_options = "striped")
+
+```
