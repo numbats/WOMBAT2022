@@ -22,3 +22,22 @@ kable(timetable) |>
     kable_styling(latex_options = "striped")
 
 ```
+
+# Blurbs
+
+## Lauren
+
+### Getting started with Bayesian inference with brms and Stan
+
+In this workshop, Lauren will work through the steps of Bayesian Workflow using brms (and Stan). We will cover how to select a prior using prior predictive checks, understand the model diagnostics, perform model checking using posterior predictive checks and leave-one-out cross-validation.
+
+## Emi
+
+### Effective Data Visualisation with R
+
+In this 3 hour tutorial, I will demonstrate some cognitive principles and apply methods supported by empirical studies that make data visualisation more effective. The construction of data visualisation will be accompanied with R code using the ggplot2 package. The R code and data used will be provided so participants can fully replicate the presented data visualisations.
+Participants are expected to know how to use R. Some knowledge in tidyverse would be beneficial. You can find an interactive introduction to data analysis with R at https://learnr.numbat.space/.
+
+### Biography
+
+Dr. Emi Tanaka is a Senior Lecturer in Statistics at Monash University whose primary interest is to develop impactful statistical methods and tools that can readily be used by practitioners. Her research area includes data visualisation, mixed models and experimental designs, motivated primarily by problems in bioinformatics and agricultural sciences. She is currently the President of the Statistical Society of Australia Victorian Branch and the recipient of the Distinguished Presenter's Award from the Statistical Society of Australia for her delivery of a wide-range of R workshops.
