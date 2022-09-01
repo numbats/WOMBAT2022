@@ -47,3 +47,9 @@ Dr. Emi Tanaka is a Senior Lecturer in Statistics at Monash University whose pri
 ### Spatio-temporal visualisation for natural disasters
 
 In this tutorial, we'll use spatio-temporal data to visualise weather forecasts and other related natural disaster predictions for the purposes of understanding and communicating risk. We will learn how to create visualisations in both space (extent mapping) and time (forecast trajectories) using best practice principles. We will also explore how to incorporate uncertainty into our visualisations.
+
+## Jess
+
+### Optimization in Python and its application in carbon portfolio
+
+This workshop provides an introduction to mathematical optimization with Python implementations. We will work on a carbon portfolio model, which is an analytical framework for evaluating investment opportunities and maximizing climate benefits and risk-adjusted returns through optimal portfolio design.
