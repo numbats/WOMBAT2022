@@ -53,3 +53,9 @@ In this tutorial, we'll use spatio-temporal data to visualise weather forecasts 
 ### Optimization in Python and its application in carbon portfolio
 
 This workshop provides an introduction to mathematical optimization with Python implementations. We will work on a carbon portfolio model, which is an analytical framework for evaluating investment opportunities and maximizing climate benefits and risk-adjusted returns through optimal portfolio design.
+
+## Rob
+
+### Exploratory time series analysis using R
+
+Many organisations collect huge amounts of data over time, and we need time series analysis tools capable of handling the scale, frequency and structure of the data collected. In this workshop, we will look at some R packages and methods that have been developed to handle the analysis of large collections of time series. We will look at the tsibble data structure for flexibly managing collections of related time series, and consider how to do data wrangling, data visualisation, and exploratory data analysis to analyse time series data in high dimensions. 
