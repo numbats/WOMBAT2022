@@ -59,3 +59,9 @@ This workshop provides an introduction to mathematical optimization with Python 
 ### Exploratory time series analysis using R
 
 Many organisations collect huge amounts of data over time, and we need time series analysis tools capable of handling the scale, frequency and structure of the data collected. In this workshop, we will look at some R packages and methods that have been developed to handle the analysis of large collections of time series. We will look at the tsibble data structure for flexibly managing collections of related time series, and consider how to do data wrangling, data visualisation, and exploratory data analysis to analyse time series data in high dimensions. 
+
+## Mitch
+
+### Interactive web applications with Shiny for R
+
+Learn how to create shiny applications in R starting from the basics. This workshop will introduce the core concepts of shiny app development, including: designing a user interface, writing reactive server code, troubleshooting common errors, and deploying your app. During the workshop we will build and publish a simple interactive dashboard, which displays a plot that changes based on a few inputs. Participants are expected to be familiar with writing R code, but no prior experience in website development or shiny is required to get the most out of this workshop.
