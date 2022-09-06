@@ -118,6 +118,14 @@ a {
 
 a:hover, a:focus {color: #CC5900;}
 
+h2 a {
+  color: #CC5900;
+}
+
+h2 a:hover {
+  color: #06548E;
+}
+
 footer a {
   color: #FFFFFF;
   text-decoration: underline;
